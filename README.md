@@ -1,4 +1,4 @@
-# Java prooject apply 3 librarys L&F
+# Java project apply 3 librarys L&F
 - JCalendar
 - JTatto
 - FlatLaf
